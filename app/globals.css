@@ -186,7 +186,7 @@
   }
 
   .card-border {
-    @apply border-gradient p-0.5 rounded-2xl w-fit;
+    @apply border-gradient rounded-2xl w-fit;
   }
 
   .card {
